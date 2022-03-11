@@ -1,1 +1,1 @@
-# Some interesting code written when learning java.
+# Some interesting code written when learning Java.
