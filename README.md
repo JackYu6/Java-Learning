@@ -1,1 +1,1 @@
-Some interesting code written when learning Java.
+Some code written when learning Java.
